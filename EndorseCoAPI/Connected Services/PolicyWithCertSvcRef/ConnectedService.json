@@ -1,0 +1,21 @@
+{
+  "ExtendedData": {
+    "inputs": [
+      "http://mvcsvc.bla.co.th:88/Policywithcertwcfsvc/Policywithcertwcf.svc"
+    ],
+    "collectionTypes": [
+      "System.Array",
+      "System.Collections.Generic.Dictionary`2"
+    ],
+    "namespaceMappings": [
+      "*, PolicyWithCertSvcRef"
+    ],
+    "references": [
+      "DataAccessUtility, {BLA.DataAccessUtility.Standard, 1.0.4}",
+      "ITUtility, {BLA.ITUtility.Standard, 1.0.4}"
+    ],
+    "sync": true,
+    "targetFramework": "netcoreapp3.1",
+    "typeReuseMode": "Specified"
+  }
+}

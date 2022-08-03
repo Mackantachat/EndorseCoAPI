@@ -1,0 +1,20 @@
+{
+  "ExtendedData": {
+    "inputs": [
+      "http://intranetuat:88/EndorseRefSvc/EndorseRef.svc"
+    ],
+    "collectionTypes": [
+      "System.Array",
+      "System.Collections.Generic.Dictionary`2"
+    ],
+    "namespaceMappings": [
+      "*, EndorseSvcRef"
+    ],
+    "references": [
+      "ITUtility, {BLA.ITUtility.Standard, 1.0.4}"
+    ],
+    "sync": true,
+    "targetFramework": "netcoreapp3.1",
+    "typeReuseMode": "Specified"
+  }
+}
